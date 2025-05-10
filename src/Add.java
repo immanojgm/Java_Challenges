@@ -4,6 +4,6 @@ public class Add {
         int a=83;
         int b=56;
         int c=a+b;
-        System.out.println("sum of "+ a +" and "+ b + " is "+ c);;
+        System.out.println("sum of "+ a +" and "+ b + " is "+ c);
     }
 }
